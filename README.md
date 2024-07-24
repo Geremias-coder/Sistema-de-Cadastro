@@ -11,16 +11,16 @@ A aplicação consiste em uma pesquisa de preferência de games, onde os dados s
 
 ## Layout web
 
-# home
+## home
 ![Web 1](https://github.com/Geremias-coder/assets/blob/main/Layout_cadastro_usuario/web-1.png)
 
-# Cadastro
+## Cadastro
 ![Web 2](https://github.com/Geremias-coder/assets/blob/main/Layout_cadastro_usuario/web-2.png)
 
-# Listar Usuários
+## Listar Usuários
 ![Web 3](https://github.com/Geremias-coder/assets/blob/main/Layout_cadastro_usuario/web-3.png)
 
-# Edição
+## Edição
 ![Web 4](https://github.com/Geremias-coder/assets/blob/main/Layout_cadastro_usuario/web-4.png)
 
 # Tecnologias utilizadas
