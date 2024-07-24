@@ -10,31 +10,25 @@ Big Game Survey é uma aplicação full stack web e mobile construída durante a
 A aplicação consiste em uma pesquisa de preferência de games, onde os dados são coletados no app mobile, e depois são listados no app web, que também apresenta um dashboard com gráficos baseados nestes dados.
 
 ## Layout web
+
+# home
 ![Web 1](https://github.com/Geremias-coder/assets/blob/main/Layout_cadastro_usuario/web-1.png)
 
+# Cadastro
 ![Web 2](https://github.com/Geremias-coder/assets/blob/main/Layout_cadastro_usuario/web-2.png)
 
+# Listar Usuários
 ![Web 3](https://github.com/Geremias-coder/assets/blob/main/Layout_cadastro_usuario/web-3.png)
 
-## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
+# Edição
+![Web 4](https://github.com/Geremias-coder/assets/blob/main/Layout_cadastro_usuario/web-4.png)
 
 # Tecnologias utilizadas
 ## Back end
-- Java
-- Spring Boot
-- JPA / Hibernate
-- Maven
+- PHP
+- SQL
 ## Front end
-- HTML / CSS / JS / TypeScript
-- ReactJS
-- React Native
-- Apex Charts
-- Expo
-## Implantação em produção
-- Back end: Heroku
-- Front end web: Netlify
-- Banco de dados: Postgresql
+- HTML / CSS / JS / 
 
 # Como executar o projeto
 
