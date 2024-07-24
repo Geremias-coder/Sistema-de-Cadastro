@@ -61,7 +61,7 @@ yarn start
 
 # Autor
 
-Wellington Mazoni de Andrade
+Geremias Rodrigues Nunes
 
-https://www.linkedin.com/in/wmazoni
+https://www.linkedin.com/in/geremias-rodrigues-nunes-b75163214/
 
