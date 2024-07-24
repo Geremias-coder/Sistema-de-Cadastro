@@ -12,7 +12,9 @@ A aplicação consiste em uma pesquisa de preferência de games, onde os dados s
 ## Layout web
 ![Web 1](https://github.com/Geremias-coder/assets/blob/main/Layout_cadastro_usuario/web-1.png)
 
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
+![Web 2](https://github.com/Geremias-coder/assets/blob/main/Layout_cadastro_usuario/web-2.png)
+
+![Web 3](https://github.com/Geremias-coder/assets/blob/main/Layout_cadastro_usuario/web-3.png)
 
 ## Modelo conceitual
 ![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
