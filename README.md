@@ -1,26 +1,22 @@
 # Sistema de Cadastro 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Geremias-coder/Sistema-de-Cadastro/blob/main/LICENSE) 
 
 # Sobre o projeto
 
-https://wmazoni-sds1.netlify.app
+Desenvolvi um sistema de cadastros eficiente. Este projeto inclui funcionalidades de criação, leitura, atualização e exclusão de registros, permitindo uma gestão completa dos dados.
 
-Big Game Survey é uma aplicação full stack web e mobile construída durante a 1ª edição da **Semana DevSuperior** (#sds1), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+# Layout web
 
-A aplicação consiste em uma pesquisa de preferência de games, onde os dados são coletados no app mobile, e depois são listados no app web, que também apresenta um dashboard com gráficos baseados nestes dados.
-
-## Layout web
-
-## home
+## Tela Inicial
 ![Web 1](https://github.com/Geremias-coder/assets/blob/main/Layout_cadastro_usuario/web-1.png)
 
-## Cadastro
+## Tela de Cadastro
 ![Web 2](https://github.com/Geremias-coder/assets/blob/main/Layout_cadastro_usuario/web-2.png)
 
-## Listar Usuários
+## Tela de Listagem dos usuários
 ![Web 3](https://github.com/Geremias-coder/assets/blob/main/Layout_cadastro_usuario/web-3.png)
 
-## Edição
+## Tela de edição dos cadastros 
 ![Web 4](https://github.com/Geremias-coder/assets/blob/main/Layout_cadastro_usuario/web-4.png)
 
 # Tecnologias utilizadas
