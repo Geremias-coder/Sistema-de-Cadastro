@@ -41,9 +41,7 @@ git clone https://github.com/Geremias-coder/Sistema-de-Cadastro.git
 XAMPP v3.3.0
 
 # executar o projeto
-1 - Iniciar os serviços do Apache e MySQL através do painel de controle do XAMPP
-2 - Salvar repositório clonado na pasta 'XAMPP htdocs folder'
-3 - No navegador acesse (http://localhost/Cadastro_usuários/index.php)
+
 
 # como visualizar o banco de dados
 1 - Acesse o phpMyAdmin pelo navegador (geralmente em http://localhost/phpmyadmin/index.php?route=/server/databases).
