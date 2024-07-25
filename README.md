@@ -3,7 +3,7 @@
 
 
 
-# Sobre o projeto
+## Sobre o projeto
 
 Projeto resultado de um estudo. O sistema permite realizar operações de CRUD (Create, Read, Update, Delete) com interação direta ao banco de dados.
 
@@ -31,7 +31,7 @@ Projeto resultado de um estudo. O sistema permite realizar operações de CRUD (
 - CSS (Bootstrap)
 - JavaScript
   
-# Como executar o projeto
+## Como executar o projeto
  
 ```bash
 # clonar repositório
@@ -45,11 +45,9 @@ XAMPP v3.3.0
 2 - Salvar repositório clonado na pasta 'XAMPP htdocs folder'
 3 - No navegador acesse (http://localhost/Cadastro_usuários/index.php)
 
-# configuração do banco de dados
-Acesse o phpMyAdmin pelo navegador (geralmente em http://localhost/phpmyadmin).
-Criei um banco de dados chamado cadastro_usuarios.
-Dentro desse banco, criei uma tabela usuarios com os campos necessários (id, nome, email, telefone, etc.).
-
+# como visualizar o banco de dados
+1 - Acesse o phpMyAdmin pelo navegador (geralmente em http://localhost/phpmyadmin/index.php?route=/server/databases).
+2 - Selecione a estrutura localizada no canto esquerdo com o nome 'cadastro' e dentro da estura selecione a tabela 'usuários'.
 ```
 
 # Autor
