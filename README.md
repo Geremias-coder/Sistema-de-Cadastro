@@ -30,34 +30,25 @@ Projeto resultado de um estudo. O sistema permite realizar operações de CRUD (
 # Como executar o projeto
 
 ## Back end
-Pré-requisitos: Java 11
+Pré-requisitos: 
 
 ```bash
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
-
-# entrar na pasta do projeto back end
-cd backend
-
-# executar o projeto
-./mvnw spring-boot:run
-```
-
-## Front end web
-Pré-requisitos: npm / yarn
-
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
-
-# entrar na pasta do projeto front end web
-cd front-web
+git clone https://github.com/Geremias-coder/Sistema-de-Cadastro.git
 
 # instalar dependências
-yarn install
+XAMPP v3.3.0
 
 # executar o projeto
-yarn start
+1 - Iniciar os serviços do Apache e MySQL através do painel de controle do XAMPP
+2 - Salvar repositório clonado na pasta 'XAMPP htdocs folder'
+3 - No navegador acesse (http://localhost/Cadastro_usuários/index.php)
+
+# configuração do banco de dados
+Acesse o phpMyAdmin pelo navegador (geralmente em http://localhost/phpmyadmin).
+Criei um banco de dados chamado cadastro_usuarios.
+Dentro desse banco, criei uma tabela usuarios com os campos necessários (id, nome, email, telefone, etc.).
+
 ```
 
 # Autor
