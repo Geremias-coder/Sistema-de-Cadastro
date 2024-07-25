@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-Desenvolvi um sistema de cadastros eficiente. Este projeto inclui funcionalidades de criação, leitura, atualização e exclusão de registros, permitindo uma gestão completa dos dados.
+Projeto resultado de um estudo. O sistema permite realizar operações de CRUD (Create, Read, Update, Delete) com interação direta ao banco de dados.
 
 # Layout web
 
@@ -22,9 +22,10 @@ Desenvolvi um sistema de cadastros eficiente. Este projeto inclui funcionalidade
 # Tecnologias utilizadas
 ## Back end
 - PHP
-- SQL
+## Banco de dados
+- MySQL
 ## Front end
-- HTML / CSS / JS / 
+- HTML / CSS (Bootstrap) / JavaScript
 
 # Como executar o projeto
 
