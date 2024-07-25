@@ -28,7 +28,7 @@ Projeto resultado de um estudo. O sistema permite realizar operações de CRUD (
 - HTML
 - CSS (Bootstrap)
 - JavaScript
-- 
+  
 # Como executar o projeto
  
 ```bash
