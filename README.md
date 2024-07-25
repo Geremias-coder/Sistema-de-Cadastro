@@ -25,13 +25,12 @@ Projeto resultado de um estudo. O sistema permite realizar operações de CRUD (
 ## Banco de dados
 - MySQL
 ## Front end
-- HTML / CSS (Bootstrap) / JavaScript
-
+- HTML
+- CSS (Bootstrap)
+- JavaScript
+- 
 # Como executar o projeto
-
-## Back end
-Pré-requisitos: 
-
+ 
 ```bash
 # clonar repositório
 git clone https://github.com/Geremias-coder/Sistema-de-Cadastro.git
