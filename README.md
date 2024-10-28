@@ -31,21 +31,7 @@ Projeto resultado de um estudo. O sistema permite realizar operações de CRUD (
 - CSS (Bootstrap)
 - JavaScript
   
-## Como executar o projeto
- 
-```bash
-# clonar repositório
-git clone https://github.com/Geremias-coder/Sistema-de-Cadastro.git
 
-# instalar dependências
-XAMPP v3.3.0
-
-# executar o projeto
-
-
-# como visualizar o banco de dados
-1 - Acesse o phpMyAdmin pelo navegador (geralmente em http://localhost/phpmyadmin/index.php?route=/server/databases).
-2 - Selecione a estrutura localizada no canto esquerdo com o nome 'cadastro' e dentro da estura selecione a tabela 'usuários'.
 ```
 
 # Autor
